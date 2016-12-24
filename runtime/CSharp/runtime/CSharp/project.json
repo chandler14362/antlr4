@@ -5,12 +5,10 @@
     "xmlDoc": true
   },
   "dependencies": {
-    "NETStandard.Library": "1.6.0"
+    "NETStandard.Library": "1.6.1"
   },
   "frameworks": {
-    "netstandard1.5": {
-      "imports": "dnxcore50"
-    }
+    "netstandard1.6": {}
   },
   "version": "4.5.3-*"
 }

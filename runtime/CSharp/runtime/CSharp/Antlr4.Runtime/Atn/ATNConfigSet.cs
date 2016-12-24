@@ -326,7 +326,7 @@ namespace Antlr4.Runtime.Atn
 
 	}
 
-	public class OrderedATNConfigSet : ATNConfigSet
+	public partial class OrderedATNConfigSet : ATNConfigSet
 	{
 
 		public OrderedATNConfigSet()
